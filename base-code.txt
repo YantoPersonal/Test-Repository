@@ -1,7 +1,0 @@
-Line 1 of base code Bug Fix
-Line 2 of base code Bug Fix
-Line 3 of base code Bug Fix
-Line 1 of visual tool
-Line 2 of visual tool
-Line 3 of visual tool
-
