@@ -4,6 +4,3 @@ Line 3 of base code bug fix
 Line 1 of visual tool
 Line 2 of visual tool
 Line 3 of visual tool
-Line 1 of pred model
-Line 2 of pred model
-Line 3 of pred model
