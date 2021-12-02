@@ -1,0 +1,6 @@
+Line 1 base code
+Line 2 base code
+Line 3 base code
+Line 1 visual code
+Line 2 visual code
+Line 3 visual code
