@@ -1,6 +1,6 @@
-Line 1 of base code 
-Line 2 of base code
-Line 3 of base code 
+Line 1 of base code bug fix
+Line 2 of base code bug fix
+Line 3 of base code bug fix
 Line 1 of visual tool
 Line 2 of visual tool
 Line 3 of visual tool
